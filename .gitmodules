@@ -1,3 +1,6 @@
 [submodule "xLua"]
 	path = xLua
 	url = https://github.com/Tencent/xLua.git
+[submodule "cellnet"]
+	path = cellnet
+	url = https://github.com/davyxu/cellnet.git
